@@ -74,11 +74,6 @@ body {
   background-color: #eaf4fa;
 }
 
-.button.twitch {
-  color: #6441a5;
-  background-color: #e4e0eb;
-}
-
 .button:hover {
   background-color: darken(#f0f0f0, 10%);
   transform: scale(1.05);
@@ -94,10 +89,6 @@ body {
 
 .button.twitter:hover {
   background-color: rgba(234, 244, 250, 0.85);
-}
-
-.button.twitch:hover {
-  background-color: rgba(228, 224, 235, 0.85);
 }
 
 .icon {
